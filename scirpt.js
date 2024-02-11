@@ -53,7 +53,18 @@
 // }
 
 
-// TASK NO 5
+// TASK NO 5------------------------------------------------------------------------->
+
+// let str = prompt("Enter Name");
+
+// let lastCh = str.charAt(str.length - 1)
+
+// let firstCh = str.charAt(0)
+
+// let bichWala = str.substring(1, str.length - 1)
+
+// let finaly = lastCh + bichWala + firstCh;
+// console.log(finaly)
 
 
 
