@@ -31,7 +31,7 @@
 //TASK NO 3---------------------------------------------------------------------->
 
 
-// let num =  [84,75,58,68,57];
+// let num =  [23,55,40,80,66];
 // let sum = 0;
 // for(let value of num){
 //     sum += value;
@@ -43,13 +43,13 @@
 
 // TASK NO 4----------------------------------------------------------------------->
 
-// let string1 = prompt("Enter the first string:");
-// let string2 = prompt("Enter the second string:");
+// var string1 = prompt("Enter the first string:");
+// var string2 = prompt("Enter the second string:");
 
-// if (string1 === string2) {
-//     console.log("characters are equal: " + string1);
+// if (string1.length === string2.length) {
+//     alert("characters are equal:");
 // } else {
-//     console.log("characters are not equal.");
+//     alert("characters are not equal:");
 // }
 
 
