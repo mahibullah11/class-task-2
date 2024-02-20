@@ -1,14 +1,12 @@
 //TASK NO 1---------------------------------------------------------------------------->
-// let userInput = prompt("Enter a number:");
-// let number = parseInt(userInput);
+
+
+// var num1 = +prompt("Enter the number:");
 // let sum = 0;
-
-// while (!isNaN(number) && number > 0) {
-//     sum += number % 10;
-//     number = Math.floor(number / 10);
+// for(let i=num1; i>=1; i--){
+//     sum += i;
 // }
-
-// console.log("Sum of digits:", sum);
+// console.log(sum);
 
 
 //TASK NO 2----------------------------------------------------------------------->
@@ -65,8 +63,6 @@
 
 // let finaly = lastCh + bichWala + firstCh;
 // console.log(finaly)
-
-
 
 
 
